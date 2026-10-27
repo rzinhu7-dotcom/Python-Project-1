@@ -1,0 +1,9 @@
+Order,Student_type,Meal_price_USD,Drink_price_USD,Student_card_valid,Meal_plan
+C101,Undergraduate,850,180,Yes,No
+C102,Undergraduate,620,150,Yes,Yes
+C103,Graduate,950,220,Yes,No
+C104,Undergraduate,780,0,No,No
+C105,Graduate,540,120,Yes,Yes
+C106,Undergraduate,1100,200,Yes,No
+C107,Graduate,700,180,No,Yes
+C108,Undergraduate,450,100,Yes,No
